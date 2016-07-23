@@ -66,9 +66,9 @@ default IntelliJ theme or the JetBrains Dracula theme. We suggest using black in
 for normal text, while using blue ink for highlighting and emphasis. 
 
 ### Manual under development. Publishing date (for github):
-   PhpStorm Manual v1.0 - July 29, 2016 : Before Testing
-   PhpStorm Manual v1.1 - August 3, 2016 : After implementing changes required as per testing
-   PhpStorm Manual v1.2 - August 5, 2016 : Final verison of manual, production ready.
+    PhpStorm Manual v1.0 - July 29, 2016 : Before Testing
+    PhpStorm Manual v1.1 - August 3, 2016 : After implementing changes required as per testing
+    PhpStorm Manual v1.2 - August 5, 2016 : Final verison of manual, production ready.
 
 ####Thank You.
 
