@@ -65,7 +65,7 @@ document, except for images. All images related to the IDE will be using either 
 default IntelliJ theme or the JetBrains Dracula theme. We suggest using black ink on white paper
 for normal text, while using blue ink for highlighting and emphasis. 
 
-### Manual under development. Publishing date (for github):
+### Manual under development. Schedule (for github):
     PhpStorm Manual v1.0 - July 29, 2016 : Before Testing
     PhpStorm Manual v1.1 - August 3, 2016 : After implementing changes required as per testing
     PhpStorm Manual v1.2 - August 5, 2016 : Final verison of manual, production ready.
