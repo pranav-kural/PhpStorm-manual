@@ -11,7 +11,7 @@ A manual on usage of Jetbrain's most popular web development IDE - PhpStorm.
 
 ## Audience Analysis:
 PhpStrom is an all-in-one integrated development environment for any kind of web development,
-therefore the audience for this product mainly includes wed developers and developer students. This product and its
+therefore the audience for this product mainly includes web developers and developer students. This product and its
 manual may be used directly for professional development or for educational purposes. Our analysis reveal that
 primary users are male between the age of 22 to 49. Most of the new users of this manual will have some background
 in web development, especially with PHP programming language or are already a user of other JetBrains products.
